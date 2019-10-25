@@ -32,7 +32,7 @@
 
 # Overview
 
-![Logo](https://imgur.com/1QKW3Q5)
+![Logo](https://imgur.com/q72ME3y)
 ## Project Description
 
 
