@@ -71,10 +71,10 @@ client
       |___ favicon.ico
       |___ index.html
  ___ src
-|     	|___ assets
-|		|	|___ images
-|     	|	|___ graphics
-|		|___ components
+|     |___ assets
+|		  |  |___ images
+|     |	 |___ graphics
+|		  |___ components
 |            |___ Header.jsx
 |            |___ Footer.jsx
 |            |___ About.jsx
