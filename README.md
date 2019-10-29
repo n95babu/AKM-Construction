@@ -72,8 +72,8 @@ client
       |___ index.html
  ___ src
 |     |___ assets
-|		  |  |___ images
-|     |	 |___ graphics
+|		    |___ images
+|     	|___ graphics
 |		  |___ components
 |            |___ Header.jsx
 |            |___ Footer.jsx
